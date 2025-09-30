@@ -1,1 +1,63 @@
 # Portfolio
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Akshat Tyagi's Portfolio</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+            background-color: #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+
+    <table border="1" style="width: 80%; margin: auto; background-color: #ffffff; padding: 20px;">
+        <tr>
+            <td style="padding: 20px; vertical-align: top;">
+                <h1 style="color: #0066cc;">Akshat Tyagi's Portfolio</h1>
+                <h3>(Main)</h3>
+                
+                <table style="width: 100%;">
+                    <tr>
+                        <td style="width: 150px; vertical-align: top;">
+                            <img src="AT%20Photo.jpg" alt="Akshat Tyagi Photo" width="150" height="150" style="border: 2px solid black;">
+                        </td>
+                        <td style="vertical-align: top; padding-left: 20px;">
+                            <p><strong>Akshat Tyagi</strong></p>
+                            <p>B Tech 1st Year</p>
+                            <p>Modinagar, Ghaziabad, UP</p>
+                            <p><strong>Achievements:</strong></p>
+                            <ul>
+                                <li>Successfully completed my first python programming course.</li>
+                                <li>Completed Infosys intro to data science course.</li>
+                                <li>Awarded for outstanding performance in first semester exams.</li>
+                            </ul>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 20px; vertical-align: top;">
+                <h2 style="color: #0066cc;">My Hobbies</h2>
+                <ul>
+                    <li>Chess <span style="color: gold;">&#9733; &#9733; &#9733;</span></li>
+                    <li>Drawing <span style="color: gold;">&#9733; &#9733;</span></li>
+                    <li>Watching Movies <span style="color: gold;">&#9733;</span></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 20px; vertical-align: top;">
+                <h2 style="color: #0066cc;">Connect With Me</h2>
+                <p>
+                    <a href="https://www.linkedin.com/in/akshat-tyagi-087b15381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Connect with me on LinkedIn</a>
+                </p>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
